@@ -1,2 +1,2 @@
 # bfhl-api
-Full Stack Question Paper – VIT Bajaa Finserv
+Full Stack Question Paper – VIT Bajaj Finserv
